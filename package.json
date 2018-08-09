@@ -1,0 +1,20 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo success"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanXzj/jenkins-demo.git"
+  },
+  "keywords": [],
+  "author": "chuidylan <chuidylan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanXzj/jenkins-demo/issues"
+  },
+  "homepage": "https://github.com/EvanXzj/jenkins-demo#readme"
+}
