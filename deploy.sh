@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-node index.js
+pm2 deploy ecosystem.json --env prod
