@@ -25,7 +25,7 @@ pipeline {
         stage('Start') {
             steps {
                 echo 'Strating...'
-                sh  'npm start'
+                sh  './deploy.sh'
             }
         }
     }
